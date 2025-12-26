@@ -1,2 +1,7 @@
-# my-first-coding-project-o-portfolio.
-A collection of my programming exercises, web development projects, and coding journey as an aspiring Software Engineer.
+<h1>Hello! I am Elyzer</h1>
+<p>This is the start of my journey as a Software Engineer.</p>
+<ul>
+  <li>Studying HTML/CSS</li>
+  <li>Setting up my GitHub Portfolio</li>
+</ul>
+
